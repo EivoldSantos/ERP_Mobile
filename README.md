@@ -4,7 +4,7 @@
 <div align="center">
 
 
-# CONTROLE-DE-ESTOQUE-REACT
+# ERP-Mobile-React_Native
 
 <em>Streamlining Inventory, Empowering Business Growth</em>
 
